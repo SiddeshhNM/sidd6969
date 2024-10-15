@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *Next JS*
 
-- 👨‍💻 All of my projects are available at [@sidd6969](@sidd6969)
+- 👨‍💻 All of my projects are available at [@SiddeshhNM](@SiddeshhNM)
 
 - 📫 How to reach me *siddeshmalagimani@gmail.com*
 
